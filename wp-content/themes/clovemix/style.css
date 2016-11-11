@@ -171,7 +171,9 @@ label[for="payment_method_bacs"], label[for="payment_method_cheque"], label[for=
 
 /* =Editable Css
 -------------------------------------------------------------- */
+
 section#home_slider{ padding:130px 0 0 0; position:relative; z-index:0;}
+
 .content-part{ width:620px; float:left;}
 .page-content{ padding:0 25px;}
 .sidebar-left img, .front-left img{ float: left; margin:5px 12px 5px 0;}

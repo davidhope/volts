@@ -90,7 +90,9 @@
 	.features_more ul{margin-left:0;}
 	.lead_text{width:100%;}
 	.mobile_nav, .header_right nav{width:100%;}
+
     section#home_slider {padding-top: 0;}
+
 	.header_right nav{height:139px; overflow-x:hidden; overflow-y:scroll;}
 	#sitemain{width:100%; float:none; display:block; margin-bottom:30px;}
 	#sidebar{width:100%; float:none; display:block;}

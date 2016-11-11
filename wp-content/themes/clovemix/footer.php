@@ -74,10 +74,12 @@
                <?php wp_nav_menu( array('theme_location'  => 'footer') ); ?>      
         </div>
     	<div class="right">
+
 		  <p>
             <?php echo get_theme_mod('footer_copy',__('Volts &copy; 2015 | All Rights Reserved','Volts')); ?><br />
 		    <?php echo clovemix_credit_link(); ?>
           </p>
+
         </div>
         <div class="clear"></div>
     </div>

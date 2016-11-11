@@ -12,6 +12,7 @@
 
 get_header();
 //get_header('no-slider');
+
 ?>
 <div class="content-area">
     <div class="container main_content_wrap">

@@ -210,5 +210,6 @@ add_filter( 'excerpt_length', 'clovemix_custom_excerpt_length', 999 );
 
 function clovemix_credit_link(){
 		//return "Theme by <a href=".esc_url(site_url)." target='_blank'>Flythemes</a>";
-    return "";
-	}
+        return "";
+
+}
